@@ -36,6 +36,7 @@ One of the best ways to achieve your goals or KPI's is to set SMART goals.  When
 ![Tracker](screenshots/tracker.png)
 *Section to input data and keep pulled up while on phone calls.*
 ![Trends](screenshots/trends.png)
+*Screenview of trends from data to be analyzed.  Includes optional dotted line for a personal goal.*
 
 ## Getting Started
 

@@ -30,7 +30,8 @@ One of the best ways to achieve your goals or KPI's is to set SMART goals.  When
 - **Other:** Axios, jsPDF, Docker (planned), GitHub Actions (CI/CD)  
 
 ## Screenshots
-![Dashboard]
+![Dashboard](screenshots/dashboard.png)
+*Dashboard showing Ask %, Open %, and weekly goal progress.*
 ![History View]
 
 ## Getting Started

@@ -32,7 +32,8 @@ One of the best ways to achieve your goals or KPI's is to set SMART goals.  When
 ## Screenshots
 ![Dashboard](screenshots/dashboard.png)
 *Dashboard showing Ask %, Open %, and weekly goal progress.*
-![History View]
+![Tracker](screenshots/tracker.png)
+*Section to input data and keep pulled up while on phone calls.*
 
 ## Getting Started
 

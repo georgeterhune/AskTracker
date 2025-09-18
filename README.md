@@ -30,13 +30,25 @@ One of the best ways to achieve your goals or KPI's is to set SMART goals.  When
 - **Other:** Axios, jsPDF, Docker (planned), GitHub Actions (CI/CD)  
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
-*Dashboard showing Ask %, Open %, and weekly goal progress.*
-   - 
-![Tracker](screenshots/tracker.png)
-*Section to input data and keep pulled up while on phone calls.*
-![Trends](screenshots/trends.png)
-*Screenview of trends from data to be analyzed.  Includes optional dotted line for a personal goal.*
+
+### Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.png" width="800">
+</p>
+<p align="center"><em>Dashboard showing Ask %, Open %, and weekly goal progress.</em></p>
+
+### Tracker
+<p align="center">
+  <img src="screenshots/tracker.png" width="800">
+</p>
+<p align="center"><em>Section to input data and keep pulled up while on phone calls.</em></p>
+
+### Trends
+<p align="center">
+  <img src="screenshots/trends.png" width="800">
+</p>
+<p align="center"><em>Screenview of trends from data to be analyzed. Includes optional dotted line for a personal goal.</em></p>
+
 
 ## Getting Started
 

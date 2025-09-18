@@ -1,6 +1,11 @@
 # AskTracker
 A full-stack MERN application that tracks client behaviors to improve onboarding and lead generation performance.
 
+[![React](https://img.shields.io/badge/frontend-React-61DAFB)](#)
+[![Node.js](https://img.shields.io/badge/backend-Node.js-339933)](#)
+[![Express](https://img.shields.io/badge/api-Express-000000)](#)
+[![MongoDB](https://img.shields.io/badge/database-MongoDB-47A248)](#)
+
 - [Overview](#overview)  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
